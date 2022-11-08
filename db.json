@@ -44,7 +44,7 @@
     {
         "img":"./images/mexican.webp",
         "hotel":"Friends Dhaba",
-        "cuisine":"North indian",
+        "cuisine":"Northindian",
         "price":100,
         "rate":4,
         "time":15,
@@ -53,7 +53,7 @@
     {
         "img":"./images/italian.webp",
         "hotel":"AVS",
-        "cuisine":"North indian",
+        "cuisine":"Northindian",
         "price":250,
         "rate":4,
         "time":15
@@ -61,7 +61,7 @@
     {
         "img":"./images/indian.jpeg",
         "hotel":"Paradise",
-        "cuisine":"South indian",
+        "cuisine":"Southindian",
         "price":300,
         "rate":4.7,
         "time":30
