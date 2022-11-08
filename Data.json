@@ -1,0 +1,69 @@
+{"data":[
+    {
+        "img":"./images/burger.jpg",
+        "hotel":"McDonlds",
+        "cuisine":"American",
+        "price":250,
+        "time":5,
+        "rate":4,
+        "trending":true
+    },
+    {
+        "img":"./images/mexican.webp",
+        "hotel":"Subway",
+        "cuisine":"American",
+        "price":250,
+        "rate":4,
+        "time":5
+    },
+    {
+        "img":"./images/indian.jpeg",
+        "hotel":"Saravana Bhavan",
+        "cuisine":"Multi cuisine",
+        "price":250,
+        "rate":4,
+        "time":20
+    },
+    {
+        "img":"./images/mexican.webp",
+        "hotel":"Swathi Restaurant",
+        "cuisine":"Multi cuisine",
+        "price":250,
+        "rate":4,
+        "time":23,
+        "trending":true
+    },
+    {
+        "img":"./images/chineese.webp",
+        "hotel":"Swarnamukhi Restaurant",
+        "cuisine":"Multi cuisine",
+        "price":250,
+        "rate":4,
+        "time":25
+    },
+    {
+        "img":"./images/mexican.webp",
+        "hotel":"Friends Dhaba",
+        "cuisine":"North indian",
+        "price":100,
+        "rate":4,
+        "time":15,
+        "trending":true
+    },
+    {
+        "img":"./images/italian.webp",
+        "hotel":"AVS",
+        "cuisine":"North indian",
+        "price":250,
+        "rate":4,
+        "time":15
+    },
+    {
+        "img":"./images/indian.jpeg",
+        "hotel":"Paradise",
+        "cuisine":"South indian",
+        "price":300,
+        "rate":4.7,
+        "time":30
+    }
+]}
