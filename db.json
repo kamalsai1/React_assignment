@@ -1,7 +1,7 @@
 {"data":[
     {
         "img":"./images/burger.jpg",
-        "hotel":"McDonlds",
+        "menu":"Burger",
         "cuisine":"American",
         "price":250,
         "time":5,
@@ -10,24 +10,24 @@
     },
     {
         "img":"./images/mexican.webp",
-        "hotel":"Subway",
-        "cuisine":"American",
+        "menu":"tacos",
+        "cuisine":"Mexican",
         "price":250,
         "rate":4,
         "time":5
     },
     {
         "img":"./images/indian.jpeg",
-        "hotel":"Saravana Bhavan",
-        "cuisine":"Multi cuisine",
+        "menu":"Veg Thaali",
+        "cuisine":"South indian",
         "price":250,
         "rate":4,
         "time":20
     },
     {
         "img":"./images/mexican.webp",
-        "hotel":"Swathi Restaurant",
-        "cuisine":"Multi cuisine",
+        "menu":"Sandwich",
+        "cuisine":"Snack",
         "price":250,
         "rate":4,
         "time":23,
@@ -35,16 +35,16 @@
     },
     {
         "img":"./images/chineese.webp",
-        "hotel":"Swarnamukhi Restaurant",
-        "cuisine":"Multi cuisine",
+        "menu":"Noodles",
+        "cuisine":"Chineese",
         "price":250,
         "rate":4,
         "time":25
     },
     {
         "img":"./images/mexican.webp",
-        "hotel":"Friends Dhaba",
-        "cuisine":"Northindian",
+        "menu":"Butter chicken",
+        "cuisine":"North indian",
         "price":100,
         "rate":4,
         "time":15,
@@ -52,7 +52,7 @@
     },
     {
         "img":"./images/italian.webp",
-        "hotel":"AVS",
+        "menu":"Paneer Buttter masala",
         "cuisine":"Northindian",
         "price":250,
         "rate":4,
@@ -60,13 +60,14 @@
     },
     {
         "img":"./images/indian.jpeg",
-        "hotel":"Paradise",
-        "cuisine":"Southindian",
+        "menu":"Dum Biryani",
+        "cuisine":"South indian",
         "price":300,
         "rate":4.7,
         "time":30
     }
 ],
- "cart":[
+"users":[
     
-]}
+]
+}
